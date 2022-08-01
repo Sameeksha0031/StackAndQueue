@@ -32,7 +32,7 @@ public class PushAndPop<T> {
 		}
 	}
 	
-	 /*public boolean isEmpty()
+	 public boolean isEmpty()
 	    {
 	        return top == null;
 	    }
@@ -56,6 +56,6 @@ public class PushAndPop<T> {
 		while(top != null) {
 			System.out.println("Popped elements is "+top.getData());
 			top=top.getNext();
-		}*/
+		}
 	}
-	//}
+}

@@ -12,14 +12,12 @@ public class StackMain {
 		add.push(numberOne);
 		add.push(numberTwo);
 		add.push(numberThree);
-		
-		//add.peek();
+		add.peek();
 		
 		add.show();
-		
 		System.out.println();
-		//add.pop();
-		//add.peek();
+		add.pop();
+		add.peek();
 
 	}
 
