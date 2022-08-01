@@ -31,31 +31,4 @@ public class PushAndPop<T> {
 			temp = temp.getNext();
 		}
 	}
-	
-	 /*public boolean isEmpty()
-	    {
-	        return top == null;
-	    }
-	  
-	    public void peek()
-	    {
-
-	        if (!isEmpty()) {
-	         System.out.println("\nTop element is "+top.getData());
-	        }
-	        else {
-	            System.out.println("Stack is empty");
-	        }
-	    }
-	  
-	
-	public void pop(){
-		if(top == null) {
-			System.out.println("Nothing to pop");
-		}
-		while(top != null) {
-			System.out.println("Popped elements is "+top.getData());
-			top=top.getNext();
-		}*/
-	}
-	//}
+     }
